@@ -3,12 +3,14 @@ window.addEventListener('load', () => {
     const pads = document.querySelectorAll(".pads div");
     const visual = document.querySelector(".visual");
     const colors = [
-        "#d36060", /* red */
-        "#f1ef6e", /* yellow */
-        "#60d394", /* green */
-        "#60c2d3", /* lightblue */
-        "#606bd3", /* blue */
-        "#c060d3" /* purple */        
+        "#f2725d", /* red */
+        "#fccf4b", /* orange */
+        "#ffff50", /* yellow */
+        "#aff7b6", /* green */
+        "#93ecf8", /* blue */
+        "#ddaaff", /* purple */
+        "#ffaaff", /* pink */
+        "#f2725d"  /* red */
     ];
 
     // play sound
